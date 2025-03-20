@@ -1,0 +1,2 @@
+# egp
+EGP-Eggplant Coin 
